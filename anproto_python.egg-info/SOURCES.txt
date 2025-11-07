@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+anproto/__init__.py
+anproto/an.py
+anproto_python.egg-info/PKG-INFO
+anproto_python.egg-info/SOURCES.txt
+anproto_python.egg-info/dependency_links.txt
+anproto_python.egg-info/requires.txt
+anproto_python.egg-info/top_level.txt
+tests/test_an.py
